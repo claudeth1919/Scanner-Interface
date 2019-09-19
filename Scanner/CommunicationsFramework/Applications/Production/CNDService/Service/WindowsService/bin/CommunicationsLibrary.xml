@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CommunicationsLibrary</name>
+    </assembly>
+    <members>
+        <member name="F:CommunicationsLibrary.VisualControlsUtilities.NetworkStatistics.CF_NetworkStatistics.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:CommunicationsLibrary.VisualControlsUtilities.NetworkStatistics.CF_NetworkStatistics.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:CommunicationsLibrary.VisualControlsUtilities.NetworkStatistics.CF_NetworkStatistics.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:CommunicationsLibrary.Utilities.CommunicationsUtilities.GetActiveIPAddress">
+            <summary>
+            Retrieves the active IP address of the current host
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:My.Resources.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

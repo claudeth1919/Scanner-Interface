@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SocketsServerMultiplexingTestApp">
+</Property><Property Name="Solution File" Value="C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\SocketsServerMultiplexingTestApp.sln">
+</Property><Property Name="Date" Value="lunes, 13 de octubre de 2014">
+</Property><Property Name="Time" Value="10:22 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="SocketsServerMultiplexingTestApp" Source="SocketsServerMultiplexingTestApp.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SocketsServerMultiplexingTestApp" Source="SocketsServerMultiplexingTestApp.vbproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="UtilitiesLibrary" Source="..\..\..\..\..\..\STXProjVS08_CHQ_WITH_VD\UtilitiesFramework\Library\UtilitiesLibrary\UtilitiesLibrary.vbproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="2" Project="CommunicationsLibrary" Source="..\..\..\..\..\..\STXProjVS08_CHQ_WITH_VD\CommunicationsFramework\CommunicationsLibrary\CommunicationsLibrary.vbproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="" Source="SocketsServerMultiplexingTestApp.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SocketsServerMultiplexingTestApp.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SocketsServerMultiplexingTestApp" Source="SocketsServerMultiplexingTestApp.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

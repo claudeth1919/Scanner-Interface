@@ -1,0 +1,3 @@
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Applications\SQLServerScriptRunner\obj\Debug\SQLServerScriptRunner.vbprojResolveAssemblyReference.cache
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Applications\SQLServerScriptRunner\obj\Debug\SQLServerScriptRunner.Resources.resources
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Applications\SQLServerScriptRunner\obj\Debug\SQLServerScriptRunner.vbproj.GenerateResource.Cache

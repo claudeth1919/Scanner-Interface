@@ -1,0 +1,17 @@
+H:\PROJECTS\ALDS\ALDSDataServer\Applications\ALDSDataServerLineEmulator\obj\x86\Debug\ALDSDataServerLineEmulator.Emulator.resources
+H:\PROJECTS\ALDS\ALDSDataServer\Applications\ALDSDataServerLineEmulator\obj\x86\Debug\ALDSDataServerLineEmulator.Properties.Resources.resources
+H:\PROJECTS\ALDS\ALDSDataServer\Applications\ALDSDataServerLineEmulator\obj\x86\Debug\ALDSDataServerLineEmulator.csproj.GenerateResource.Cache
+H:\PROJECTS\ALDS\ALDSDataServer\Applications\ALDSDataServerLineEmulator\bin\Debug\ALDSDataServerLineEmulator.exe.config
+H:\PROJECTS\ALDS\ALDSDataServer\Applications\ALDSDataServerLineEmulator\bin\Debug\ALDSDataServerLineEmulator.exe
+H:\PROJECTS\ALDS\ALDSDataServer\Applications\ALDSDataServerLineEmulator\bin\Debug\ALDSDataServerLineEmulator.pdb
+H:\PROJECTS\ALDS\ALDSDataServer\Applications\ALDSDataServerLineEmulator\bin\Debug\ALDSDataServerLibrary.dll
+H:\PROJECTS\ALDS\ALDSDataServer\Applications\ALDSDataServerLineEmulator\bin\Debug\CommunicationsLibrary.dll
+H:\PROJECTS\ALDS\ALDSDataServer\Applications\ALDSDataServerLineEmulator\bin\Debug\UtilitiesLibrary.dll
+H:\PROJECTS\ALDS\ALDSDataServer\Applications\ALDSDataServerLineEmulator\bin\Debug\Sax.Communications.Community.dll
+H:\PROJECTS\ALDS\ALDSDataServer\Applications\ALDSDataServerLineEmulator\bin\Debug\ALDSDataServerLibrary.pdb
+H:\PROJECTS\ALDS\ALDSDataServer\Applications\ALDSDataServerLineEmulator\bin\Debug\CommunicationsLibrary.pdb
+H:\PROJECTS\ALDS\ALDSDataServer\Applications\ALDSDataServerLineEmulator\bin\Debug\CommunicationsLibrary.xml
+H:\PROJECTS\ALDS\ALDSDataServer\Applications\ALDSDataServerLineEmulator\bin\Debug\UtilitiesLibrary.pdb
+H:\PROJECTS\ALDS\ALDSDataServer\Applications\ALDSDataServerLineEmulator\obj\x86\Debug\ALDSDataServerLineEmulator.csprojResolveAssemblyReference.cache
+H:\PROJECTS\ALDS\ALDSDataServer\Applications\ALDSDataServerLineEmulator\obj\x86\Debug\ALDSDataServerLineEmulator.exe
+H:\PROJECTS\ALDS\ALDSDataServer\Applications\ALDSDataServerLineEmulator\obj\x86\Debug\ALDSDataServerLineEmulator.pdb

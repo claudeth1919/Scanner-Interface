@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CommunicationsLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:CommunicationsLibrary.Services.P2PCommunicationsScheme.Common.DataPreparationHandler.PrepareAndBufferData(System.Net.Sockets.SocketAsyncEventArgs,System.Byte[])">
+            <summary>
+            prepares a data message to be sent to the P2P Port using the 
+            scheme of SocketAsyncEventArgs. the preparation consisits on
+            arrange a byte where the first 4 bytes has the total lenght of
+            packet and the rest is the data it self or part of if
+            </summary>
+            <param name="e"></param>
+            <param name="data"></param> 
+        </member>
+        <member name="T:CommunicationsLibrary.Services.P2PCommunicationsScheme.P2PPortClient.ConnectionModeType">
+            <summary>
+            defines the connection type client : if it sill be used the host name or an IPAddress to buil TCP connection
+            </summary>
+        </member>
+        <member name="M:CommunicationsLibrary.Services.P2PCommunicationsScheme.P2PPortClient.SendRemainingData(System.Net.Sockets.SocketAsyncEventArgs)">
+            <summary>
+            function to send remaining data 
+            </summary>
+            <param name="receiveSendEventArgs"></param>
+        </member>
+        <member name="M:CommunicationsLibrary.Utilities.CommunicationsUtilities.GetActiveIPAddress">
+            <summary>
+            Retrieves the active IP address of the current host
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:CommunicationsLibrary.VisualControlsUtilities.NetworkStatistics.CF_NetworkStatistics.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:CommunicationsLibrary.VisualControlsUtilities.NetworkStatistics.CF_NetworkStatistics.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:CommunicationsLibrary.VisualControlsUtilities.NetworkStatistics.CF_NetworkStatistics.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:My.Resources.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

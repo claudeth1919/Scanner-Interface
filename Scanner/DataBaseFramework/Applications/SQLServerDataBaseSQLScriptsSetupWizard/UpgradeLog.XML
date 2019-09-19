@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DatabaseSetup">
+</Property><Property Name="Solution File" Value="C:\SIFCSALTILLO\DatabaseSetup\DatabaseSetup.sln">
+</Property><Property Name="Date" Value="jueves, 11 de octubre de 2012">
+</Property><Property Name="Time" Value="09:28 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DatabaseSetup.sln" Description="File successfully backed up as C:\SIFCSALTILLO\DatabaseSetup\Backup\DatabaseSetup.sln">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="DatabaseSetup.vbproj" Description="Project file successfully backed up as C:\SIFCSALTILLO\DatabaseSetup\Backup\DatabaseSetup.vbproj">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\SIFCSALTILLO\DatabaseSetup\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="CreateDBForm.vb" Description="File successfully backed up as C:\SIFCSALTILLO\DatabaseSetup\Backup\CreateDBForm.vb">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="DBCredentialsForm.vb" Description="File successfully backed up as C:\SIFCSALTILLO\DatabaseSetup\Backup\DBCredentialsForm.vb">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="FinishForm.vb" Description="File successfully backed up as C:\SIFCSALTILLO\DatabaseSetup\Backup\FinishForm.vb">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="SetupParentForm.vb" Description="File successfully backed up as C:\SIFCSALTILLO\DatabaseSetup\Backup\SetupParentForm.vb">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="TasksForm.vb" Description="File successfully backed up as C:\SIFCSALTILLO\DatabaseSetup\Backup\TasksForm.vb">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="Util\DBUtil.vb" Description="File successfully backed up as C:\SIFCSALTILLO\DatabaseSetup\Backup\Util\DBUtil.vb">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="Util\SQLScript.vb" Description="File successfully backed up as C:\SIFCSALTILLO\DatabaseSetup\Backup\Util\SQLScript.vb">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="Util\SQLScriptRunner.vb" Description="File successfully backed up as C:\SIFCSALTILLO\DatabaseSetup\Backup\Util\SQLScriptRunner.vb">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="CreateDBForm.resx" Description="File successfully backed up as C:\SIFCSALTILLO\DatabaseSetup\Backup\CreateDBForm.resx">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="Crystal_Zip.ico" Description="File successfully backed up as C:\SIFCSALTILLO\DatabaseSetup\Backup\Crystal_Zip.ico">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="DBCredentialsForm.resx" Description="File successfully backed up as C:\SIFCSALTILLO\DatabaseSetup\Backup\DBCredentialsForm.resx">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="FinishForm.resx" Description="File successfully backed up as C:\SIFCSALTILLO\DatabaseSetup\Backup\FinishForm.resx">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="SetupParentForm.resx" Description="File successfully backed up as C:\SIFCSALTILLO\DatabaseSetup\Backup\SetupParentForm.resx">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="TasksForm.resx" Description="File successfully backed up as C:\SIFCSALTILLO\DatabaseSetup\Backup\TasksForm.resx">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="DatabaseSetup.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DatabaseSetup" Source="DatabaseSetup.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DatabaseSetup.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DatabaseSetup.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DatabaseSetup" Source="DatabaseSetup.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,135 @@
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\bin\CommunicationsLibrary.dll
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\bin\CommunicationsLibrary.pdb
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\bin\CommunicationsLibrary.xml
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\bin\System.Data.DataSetExtensions.dll
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\bin\System.Data.dll
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\bin\System.dll
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\bin\System.Windows.Forms.dll
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\bin\System.Xml.dll
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\bin\System.Xml.Linq.dll
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\bin\UtilitiesLibrary.dll
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\bin\Sax.Communications.Community.dll
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\bin\UtilitiesLibrary.pdb
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\obj\Release\CommunicationsLibrary.csprojResolveAssemblyReference.cache
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\obj\Release\CommunicationsLibrary.Properties.Resources.resources
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\obj\Release\CommunicationsLibrary.VisualControlsUtilities.NetworkStatistics.CF_NetworkStatistics.resources
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\obj\Release\CommunicationsLibrary.csproj.GenerateResource.Cache
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\obj\Release\CommunicationsLibrary.dll
+I:\VBConvertions\CommunicationsFramework - T1\CommunicationsLibrary\obj\Release\CommunicationsLibrary.pdb
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.dll
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.pdb
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.xml
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Data.DataSetExtensions.dll
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Data.dll
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.dll
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Windows.Forms.dll
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Xml.dll
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Xml.Linq.dll
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\UtilitiesLibrary.dll
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\Sax.Communications.Community.dll
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\UtilitiesLibrary.pdb
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.Properties.Resources.resources
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.VisualControlsUtilities.NetworkStatistics.CF_NetworkStatistics.resources
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.dll
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.pdb
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.dll
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.pdb
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.xml
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Data.DataSetExtensions.dll
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Data.dll
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.dll
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Windows.Forms.dll
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Xml.dll
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Xml.Linq.dll
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\UtilitiesLibrary.dll
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\Sax.Communications.Community.dll
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\UtilitiesLibrary.pdb
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\ResolveAssemblyReference.cache
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.Properties.Resources.resources
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.VisualControlsUtilities.NetworkStatistics.CF_NetworkStatistics.resources
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\GenerateResource.read.1.tlog
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\GenerateResource.write.1.tlog
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.dll
+G:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.pdb
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\ResolveAssemblyReference.cache
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.Properties.Resources.resources
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.VisualControlsUtilities.NetworkStatistics.CF_NetworkStatistics.resources
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\GenerateResource.read.1.tlog
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\GenerateResource.write.1.tlog
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.dll
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.dll
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.pdb
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.xml
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Data.DataSetExtensions.dll
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Data.dll
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.dll
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Windows.Forms.dll
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Xml.dll
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Xml.Linq.dll
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\UtilitiesLibrary.dll
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\Sax.Communications.Community.dll
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\UtilitiesLibrary.pdb
+H:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.pdb
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.csprojResolveAssemblyReference.cache
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.Properties.Resources.resources
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.VisualControlsUtilities.NetworkStatistics.CF_NetworkStatistics.resources
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.csproj.GenerateResource.Cache
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.dll
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.dll
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.pdb
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.xml
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Data.DataSetExtensions.dll
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Data.dll
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.dll
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Windows.Forms.dll
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Xml.dll
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Xml.Linq.dll
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\UtilitiesLibrary.dll
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\Sax.Communications.Community.dll
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\UtilitiesLibrary.pdb
+J:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.pdb
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\ResolveAssemblyReference.cache
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\GenerateResource.read.1.tlog
+I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\GenerateResource.write.1.tlog
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.dll
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.pdb
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.xml
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Data.DataSetExtensions.dll
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Data.dll
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.dll
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Windows.Forms.dll
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Xml.dll
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\System.Xml.Linq.dll
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\UtilitiesLibrary.dll
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\Sax.Communications.Community.dll
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\UtilitiesLibrary.pdb
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.csprojResolveAssemblyReference.cache
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.Properties.Resources.resources
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.VisualControlsUtilities.NetworkStatistics.CF_NetworkStatistics.resources
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.csproj.GenerateResource.Cache
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.dll
+L:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.pdb
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.pdb
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.xml
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\System.Data.DataSetExtensions.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\System.Data.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\System.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\System.Windows.Forms.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\System.Xml.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\System.Xml.Linq.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\UtilitiesLibrary.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\NationalInstruments.UI.WindowsForms.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\Sax.Communications.Community.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\NationalInstruments.UI.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\NationalInstruments.Common.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\UtilitiesLibrary.pdb
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\NationalInstruments.UI.WindowsForms.xml
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\NationalInstruments.UI.xml
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\bin\NationalInstruments.Common.xml
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.csprojResolveAssemblyReference.cache
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.Properties.Resources.resources
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.VisualControlsUtilities.NetworkStatistics.CF_NetworkStatistics.resources
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.csproj.GenerateResource.Cache
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\CommunicationsFramework\CommunicationsLibrary\obj\Release\CommunicationsLibrary.pdb

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CNDServerService">
+</Property><Property Name="Solution File" Value="C:\SIFCSW\CommunicationsFramework\Applications\Production\CNDService\Service\WindowsService\CNDServerService.sln">
+</Property><Property Name="Date" Value="lunes, 13 de octubre de 2014">
+</Property><Property Name="Time" Value="10:14 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="CNDServerService" Source="CNDServerService.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CNDServerService" Source="CNDServerService.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UtilitiesLibrary" Source="..\..\..\..\..\..\UtilitiesFramework\Library\UtilitiesLibrary\UtilitiesLibrary.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="UtilitiesLibrary" Source="..\..\..\..\..\..\UtilitiesFramework\Library\UtilitiesLibrary\UtilitiesLibrary.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="DataBaseLibrary" Source="..\..\..\..\..\..\DataBaseFramework\Library\DataBaseLibrary.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DataBaseLibrary" Source="..\..\..\..\..\..\DataBaseFramework\Library\DataBaseLibrary.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="CommunicationsLibrary" Source="..\..\..\..\..\CommunicationsLibrary\CommunicationsLibrary.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="CommunicationsLibrary" Source="..\..\..\..\..\CommunicationsLibrary\CommunicationsLibrary.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="CNDServerService.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CNDServerService.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CNDServerService" Source="CNDServerService.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

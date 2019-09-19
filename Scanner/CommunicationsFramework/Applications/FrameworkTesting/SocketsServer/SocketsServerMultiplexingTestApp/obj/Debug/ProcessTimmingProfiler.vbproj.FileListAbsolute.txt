@@ -1,0 +1,9 @@
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\obj\Debug\ProcessTimmingProfiler.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\obj\Debug\WindowsApplication2.pdb

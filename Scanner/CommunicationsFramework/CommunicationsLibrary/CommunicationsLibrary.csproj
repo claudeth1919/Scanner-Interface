@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8EBAE7C1-2F6C-47AB-8834-F7A568912E78}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>CommunicationsLibrary</RootNamespace>
+    <AssemblyName>CommunicationsLibrary</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>On</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>CommunicationsLibrary.xml</DocumentationFile>
+    <NOWARN>1591,660,661</NOWARN>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>CommunicationsLibrary.xml</DocumentationFile>
+    <NOWARN>1591,660,661</NOWARN>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="mscorlib" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Services\AsyncTCPSocketComms\AsynchronousTCPSocketListener.cs" />
+    <Compile Include="Services\AsyncTCPSocketComms\AsynchronousTCPSocketListenerClient.cs" />
+    <Compile Include="Services\MultiCastDataReplication\MultiCastDataReplicatorClient.cs" />
+    <Compile Include="Services\MultiCastDataReplication\MultiCastDataReplicationServer.cs" />
+    <Compile Include="Services\MultiCastDataReplication\RandomMulticastIPAddressGenerator.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Common\BufferManager.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Common\DataPreparationHandler.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Common\DataHolder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Services\P2PCommunicationsScheme\P2PPortClientConnectionHandler.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Common\MessageHandler.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Common\PrefixHandler.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Common\SocketAsyncEventArgsPool.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\P2PAsyncEventStack.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Exceptions\P2PDataRetrievalUnexpectedException.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Exceptions\P2PPortConnectionException.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Exceptions\P2PDataRetrievalException.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\DedicatedP2PPortsManager.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Exceptions\P2PDataRequestTimeOutException.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\P2PPort_2.cs" />
+    <Compile Include="Services\SocketsServer\Data\SocketDataContainer.cs" />
+    <Compile Include="Services\SocketsServer\SocketsServerMultiplexingManager.cs" />
+    <Compile Include="Services\DiscoverableServiceHandling\Data\DiscoverableServiceDefinitionsContainer.cs" />
+    <Compile Include="Services\DiscoverableServiceHandling\Data\DiscoverableServiceDefinitionsContainerEnumerator.cs" />
+    <Compile Include="Services\TCPPortsManagement\TCPPortFinder.cs" />
+    <Compile Include="Services\TCPPortsManagement\TCPPortsRangeFinderHandler.cs" />
+    <Compile Include="CDNCommunicationsEnvironment\CommunicationsManager.cs" />
+    <Compile Include="CDNCommunicationsEnvironment\ComponentNetworkDirectoryService\CNDAddressingReg.cs" />
+    <Compile Include="CDNCommunicationsEnvironment\ComponentNetworkDirectoryService\CNDClient.cs" />
+    <Compile Include="CDNCommunicationsEnvironment\ComponentNetworkDirectoryService\CNDRemoteComponentLinkHandlerTable.cs" />
+    <Compile Include="CDNCommunicationsEnvironment\ComponentNetworkDirectoryService\CNDService.cs" />
+    <Compile Include="CDNCommunicationsEnvironment\ComponentNetworkDirectoryService\CNDServiceDefinitions.cs" />
+    <Compile Include="CDNCommunicationsEnvironment\ComponentNetworkDirectoryService\CNDTable.cs" />
+    <Compile Include="CDNCommunicationsEnvironment\ComponentNetworkDirectoryService\CNDTableEnumerator.cs" />
+    <Compile Include="CDNCommunicationsEnvironment\Data\CommunicationsData.cs" />
+    <Compile Include="CDNCommunicationsEnvironment\Data\CommunicationsDataRequest.cs" />
+    <Compile Include="CDNCommunicationsEnvironment\Interfaces\IUseCNDCommunicationsScheme.cs" />
+    <Compile Include="CDNCommunicationsEnvironment\LocalCommunicationsHandling\LocalComponentCommunicationsHandler.cs" />
+    <Compile Include="CDNCommunicationsEnvironment\LocalCommunicationsHandling\LocalComponentCommunicationsHandlersContainer.cs" />
+    <Compile Include="CDNCommunicationsEnvironment\RemoteCommunicationsHandling\RemoteComponentCommunicationsHandlersContainer.cs" />
+    <Compile Include="CDNCommunicationsEnvironment\RemoteCommunicationsHandling\RemoteComponentComunicationsHandler.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Data\P2PDataRequestFailure.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Data\P2PDataDeliveryResult.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Interfaces\IP2PData.cs" />
+    <Compile Include="DataPublicationsEnvironment\Client\PublicationsConnectionManagement\PublicationsConnectionsProxyServer\DPE_PublicationsConnectionsProxyServer.cs" />
+    <Compile Include="DataPublicationsEnvironment\Client\PublicationsConnectionManagement\PublicationsConnectionsProxyServer\DPE_PublicationsConnectionsProxyServerClient.cs" />
+    <Compile Include="DataPublicationsEnvironment\Client\PublicationsConnectionManagement\PublicationsConnectionsProxyServer\DPE_PublicationsProxyConnectionsServerDefinitions.cs" />
+    <Compile Include="DataPublicationsEnvironment\Client\PublicationsConnectionManagement\PublicationsConnectionsProxyServer\DPE_PublicationsProxyDefinitions.cs" />
+    <Compile Include="DataPublicationsEnvironment\Client\PublicationsConnectionManagement\DPE_PublicationDataReceptionProxy.cs" />
+    <Compile Include="DataPublicationsEnvironment\Client\PublicationsConnectionManagement\DPE_PublicationsConnectionsManager.cs" />
+    <Compile Include="DataPublicationsEnvironment\Client\PublicationsPostingManagement\DPE_PublicationsContainerEnumerator.cs" />
+    <Compile Include="DataPublicationsEnvironment\Client\PublicationsPostingManagement\DPE_PublicationsPostingManager.cs" />
+    <Compile Include="DataPublicationsEnvironment\Client\DPE_ClientPublicationDefinition.cs" />
+    <Compile Include="DataPublicationsEnvironment\Client\PublicationsConnectionManagement\DPE_PublicationConnectionHandler.cs" />
+    <Compile Include="DataPublicationsEnvironment\Client\PublicationsConnectionManagement\DPE_PublicationConnectionHandlersContainer.cs" />
+    <Compile Include="DataPublicationsEnvironment\Client\PublicationsPostingManagement\DPE_PublicationDefinitionsContainer.cs" />
+    <Compile Include="DataPublicationsEnvironment\Client\DPE_PublicationGroupOfVariablesDefinitionTable.cs" />
+    <Compile Include="DataPublicationsEnvironment\DPE_PublicationsSQLWriter.cs" />
+    <Compile Include="DataPublicationsEnvironment\DPE_GlobalDefinitions.cs" />
+    <Compile Include="DataPublicationsEnvironment\DPE_PublicationsSQLReader.cs" />
+    <Compile Include="DataPublicationsEnvironment\Server\Handling\Publications\DataDistributionHandling\DPE_MulticastUDPPublicationDataDistributionHandler.cs" />
+    <Compile Include="DataPublicationsEnvironment\Server\Handling\Publications\DPE_PublicationsDefinitions.cs" />
+    <Compile Include="DataPublicationsEnvironment\Server\Handling\Publications\DPE_PublicationClientConnectionsManager.cs" />
+    <Compile Include="DataPublicationsEnvironment\Server\Handling\Publications\DPE_PublicationData.cs" />
+    <Compile Include="DataPublicationsEnvironment\Server\Handling\Publications\DPE_PublishedVariablesRegistry.cs" />
+    <Compile Include="DataPublicationsEnvironment\Server\Handling\Publications\DataDistributionHandling\DPE_UnicastTCPPublicationDataDistributionHandler.cs" />
+    <Compile Include="DataPublicationsEnvironment\Server\Handling\Clients\DPE_Client.cs" />
+    <Compile Include="DataPublicationsEnvironment\Server\Handling\Clients\DPE_ClientsManager.cs" />
+    <Compile Include="DataPublicationsEnvironment\Server\Handling\Publications\DPE_PublicationsManager.cs" />
+    <Compile Include="DataPublicationsEnvironment\Server\Handling\Publications\DPE_Publication.cs" />
+    <Compile Include="DataPublicationsEnvironment\Client\DPE_DataPublicationsClient.cs" />
+    <Compile Include="DataPublicationsEnvironment\Server\DPE_DataPublicationsServer.cs" />
+    <Compile Include="DataPublicationsEnvironment\Server\Definitions\DPE_ServerDefs.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Data\P2PData.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Data\P2PDataAttributesTable.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Data\P2PDataAttributesTableEnumerator.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Data\P2PDataRequest.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Definitions\P2PNetworkingDefinitions.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Interfaces\IUseP2PCommunicationsScheme.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\P2PPortClient.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Statistics\P2PPortClientStatisticsHandler.cs" />
+    <Compile Include="Services\DiscoverableServiceHandling\Data\DiscoverableServiceDefinitionParametersContainerEnumerator.cs" />
+    <Compile Include="Services\DiscoverableServiceHandling\Data\DiscoverableServiceParameter.cs" />
+    <Compile Include="Services\DiscoverableServiceHandling\Exceptions\DiscoverableServiceDefinitionHandlingException.cs" />
+    <Compile Include="Services\DiscoverableServiceHandling\Exceptions\DiscoverableServiceDefinitionHandlingSearchFailureException.cs" />
+    <Compile Include="Services\DiscoverableServiceHandling\Interfaces\IDiscoverableService.cs" />
+    <Compile Include="Services\DiscoverableServiceHandling\DiscoverableServiceDefinitionHandlingClient.cs" />
+    <Compile Include="Services\DiscoverableServiceHandling\DiscoverableServiceDefinitionHandlingServer.cs" />
+    <Compile Include="Services\DiscoverableServiceHandling\Definitions\DiscoverableServiceHandlingOperativeDefs.cs" />
+    <Compile Include="Services\DiscoverableServiceHandling\Data\DiscoverableServiceDefinitionParametersContainer.cs" />
+    <Compile Include="Services\SocketsServer\Definitions\SocketsServerDefinitions.cs" />
+    <Compile Include="Services\SocketsServer\ServerStatistics\SocketsSeverClientStatisticsManager.cs" />
+    <Compile Include="Services\SocketsServer\Data\SocketData.cs" />
+    <Compile Include="Services\P2PCommunicationsScheme\Statistics\P2PPortStatisticsHandler.cs" />
+    <Compile Include="Interfaces\IVariableData.cs" />
+    <Compile Include="Interfaces\IXMLDataString.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Application.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Services\SocketsServer\ClientConnectionsHandling\SocketsServerClientConnectionHandler.cs" />
+    <Compile Include="Services\SocketsServer\ClientConnectionsHandling\SocketsServerClientConnectionsHandlerTable.cs" />
+    <Compile Include="Services\SocketsServer\ClientConnectionsHandling\SocketsServerClientConnectionsHandlerTableEnumerator.cs" />
+    <Compile Include="Services\SocketsServer\SocketsServerClient.cs" />
+    <Compile Include="Services\SocketsServer\SocketsServer.cs" />
+    <Compile Include="Services\Broadcasting\Data\BroadcastableData.cs" />
+    <Compile Include="Services\Broadcasting\Definitions\BroadCastingDefinitions.cs" />
+    <Compile Include="Services\Broadcasting\Data\BroadCastReply\BroadCastReply.cs" />
+    <Compile Include="Services\Broadcasting\Data\BroadCastReply\BroadCastRepliesContainer.cs" />
+    <Compile Include="Services\Broadcasting\Data\BroadCastReply\BroadCastRepliesContainerEnumerator.cs" />
+    <Compile Include="Services\Broadcasting\handling\DataBroadCastHandler.cs" />
+    <Compile Include="Services\Broadcasting\DataBroadcastListener.cs" />
+    <Compile Include="Services\Broadcasting\DataBroadcastClient.cs" />
+    <Compile Include="Services\Broadcasting\Exceptions\DataBroadCastWaitReplyException.cs" />
+    <Compile Include="Utilities\Utilities.cs" />
+    <Compile Include="VisualControlsUtilities\NetworkStatistics\CF_NetworkStatistics.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VisualControlsUtilities\NetworkStatistics\CF_NetworkStatistics.Designer.cs">
+      <DependentUpon>CF_NetworkStatistics.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisualControlsUtilities\NetworkStatistics\CF_NetworkStatistics.resx">
+      <DependentUpon>CF_NetworkStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataPublicationsEnvironment\Server\Handling\Publications\SQL\usp_STXDSS_Publication_PublicationCreation.sql" />
+    <None Include="DataPublicationsEnvironment\Server\Handling\Publications\SQL\usp_STXDSS_Publication_PublicationDispose.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\UtilitiesFramework\Library\UtilitiesLibrary\UtilitiesLibrary.csproj">
+      <Project>{F9CE571C-4762-4241-A0EB-AD2E3DCED43A}</Project>
+      <Name>UtilitiesLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="mscorlib" />
+    <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+  <ItemGroup />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <Import Project="$(MSBuildBinPath)/Microsoft.CSharp.targets" />
+</Project>

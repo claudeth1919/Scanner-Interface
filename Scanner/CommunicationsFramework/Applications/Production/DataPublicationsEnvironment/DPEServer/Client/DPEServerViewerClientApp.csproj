@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F86FCA9F-BA0E-4988-9E1F-42BC79D7D455}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>DPEServerClientApp.Program</StartupObject>
+    <RootNamespace>DPEServerViewerClientApp</RootNamespace>
+    <AssemblyName>DPEServerViewerClientApp</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>On</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>DSSClient.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NOWARN>1591,660,661</NOWARN>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NOWARN>1591,660,661</NOWARN>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.Common">
+      <HintPath>ThirdPartyComponents\C1.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1Command">
+      <HintPath>ThirdPartyComponents\C1.Win.C1Command.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid">
+      <HintPath>ThirdPartyComponents\C1.Win.C1FlexGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid.Classic">
+      <HintPath>ThirdPartyComponents\C1.Win.C1FlexGrid.Classic.dll</HintPath>
+    </Reference>
+    <Reference Include="c1.win.c1sizer">
+      <HintPath>ThirdPartyComponents\c1.win.c1sizer.dll</HintPath>
+    </Reference>
+    <Reference Include="Klik.Windows.Forms.Common.V1.2008">
+      <HintPath>ThirdPartyComponents\Klik.Windows.Forms.Common.V1.2008.dll</HintPath>
+    </Reference>
+    <Reference Include="Klik.Windows.Forms.EntryLib.V2.2008">
+      <HintPath>ThirdPartyComponents\Klik.Windows.Forms.EntryLib.V2.2008.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Design">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\..\UtilitiesFramework\Library\UtilitiesLibrary\UtilitiesLibrary.csproj">
+      <Project>{F9CE571C-4762-4241-A0EB-AD2E3DCED43A}</Project>
+      <Name>UtilitiesLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\CommunicationsLibrary\CommunicationsLibrary.csproj">
+      <Project>{8EBAE7C1-2F6C-47AB-8834-F7A568912E78}</Project>
+      <Name>CommunicationsLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\CommunicationsUISupportLibrary\CommunicationsUISupportLibrary.csproj">
+      <Project>{9CBCB7C8-0E40-413E-9615-7EE9870F2B1B}</Project>
+      <Name>CommunicationsUISupportLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClientConnectionsListview.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ClientConnectionsListview.Designer.cs">
+      <DependentUpon>ClientConnectionsListview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmListViewZoomView.Designer.cs">
+      <DependentUpon>frmListViewZoomView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmListViewZoomView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTreeViewZoomView.Designer.cs">
+      <DependentUpon>frmTreeViewZoomView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmTreeViewZoomView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmListViewItemZoomView.Designer.cs">
+      <DependentUpon>frmListViewItemZoomView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmListViewItemZoomView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDPEServerClientAppMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDPEServerClientAppMainForm.Designer.cs">
+      <DependentUpon>frmDPEServerClientAppMainForm.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Application.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SupportClasses\DPE_ClientIdentificationCredential.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ClientConnectionsListview.resx">
+      <DependentUpon>ClientConnectionsListview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmListViewZoomView.resx">
+      <DependentUpon>frmListViewZoomView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmTreeViewZoomView.resx">
+      <DependentUpon>frmTreeViewZoomView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmListViewItemZoomView.resx">
+      <DependentUpon>frmListViewItemZoomView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDPEServerClientAppMainForm.resx">
+      <DependentUpon>frmDPEServerClientAppMainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\Statistics.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usersGroup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\publicationVariables.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PublicationsList.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ListOfPublications.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ExpandTree.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CollapseTree.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\{NEWS1A.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ColumnsAdjustment.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DSSClient.ico" />
+    <None Include="Resources\CollapseNode.ICO" />
+    <None Include="Resources\ExpandNode.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="mscorlib" />
+    <Reference Include="I:\VBConvertions\UtilitiesFramework\Library\UtilitiesLibrary\bin\Debug\UtilitiesLibrary.dll" />
+    <Reference Include="I:\VBConvertions\CommunicationsFramework\CommunicationsLibrary\bin\CommunicationsLibrary.dll" />
+    <Reference Include="I:\VBConvertions\CommunicationsFramework\CommunicationsUISupportLibrary\bin\CommunicationsUISupportLibrary.dll" />
+  </ItemGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <Import Project="$(MSBuildBinPath)/Microsoft.CSharp.targets" />
+</Project>

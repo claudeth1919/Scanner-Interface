@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AsynchronousTCPSocketListenerClientTestApp">
+</Property><Property Name="Solution File" Value="C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\AsyncTCPSocket\AsyncTCPSocketsClient\AsynchronousTCPSocketListenerClientTestApp.sln">
+</Property><Property Name="Date" Value="lunes, 13 de octubre de 2014">
+</Property><Property Name="Time" Value="10:38 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="AsynchronousTCPSocketListenerClientTestApp" Source="AsynchronousTCPSocketListenerClientTestApp.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AsynchronousTCPSocketListenerClientTestApp" Source="AsynchronousTCPSocketListenerClientTestApp.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UtilitiesLibrary" Source="..\..\..\..\..\UtilitiesFramework\Library\UtilitiesLibrary\UtilitiesLibrary.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="UtilitiesLibrary" Source="..\..\..\..\..\UtilitiesFramework\Library\UtilitiesLibrary\UtilitiesLibrary.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="CommunicationsLibrary" Source="..\..\..\..\CommunicationsLibrary\CommunicationsLibrary.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="CommunicationsLibrary" Source="..\..\..\..\CommunicationsLibrary\CommunicationsLibrary.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="AsynchronousTCPSocketListenerClientTestApp.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AsynchronousTCPSocketListenerClientTestApp.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AsynchronousTCPSocketListenerClientTestApp" Source="AsynchronousTCPSocketListenerClientTestApp.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

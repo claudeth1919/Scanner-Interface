@@ -1,0 +1,17 @@
+C:\SIFCSW\SIFCCHQ\CommunicationsFramework\Applications\Production\DSSPublicationsProxyServer\Client\bin\Debug\DSSPublicationsProxyServerTestClient.exe
+C:\SIFCSW\SIFCCHQ\CommunicationsFramework\Applications\Production\DSSPublicationsProxyServer\Client\bin\Debug\DSSPublicationsProxyServerTestClient.pdb
+C:\SIFCSW\SIFCCHQ\CommunicationsFramework\Applications\Production\DSSPublicationsProxyServer\Client\bin\Debug\DSSPublicationsProxyServerTestClient.xml
+C:\SIFCSW\SIFCCHQ\CommunicationsFramework\Applications\Production\DSSPublicationsProxyServer\Client\bin\Debug\CommunicationsLibrary.dll
+C:\SIFCSW\SIFCCHQ\CommunicationsFramework\Applications\Production\DSSPublicationsProxyServer\Client\bin\Debug\UtilitiesLibrary.dll
+C:\SIFCSW\SIFCCHQ\CommunicationsFramework\Applications\Production\DSSPublicationsProxyServer\Client\bin\Debug\Sax.Communications.Community.dll
+C:\SIFCSW\SIFCCHQ\CommunicationsFramework\Applications\Production\DSSPublicationsProxyServer\Client\bin\Debug\UtilitiesLibrary.pdb
+C:\SIFCSW\SIFCCHQ\CommunicationsFramework\Applications\Production\DSSPublicationsProxyServer\Client\bin\Debug\UtilitiesLibrary.xml
+C:\SIFCSW\SIFCCHQ\CommunicationsFramework\Applications\Production\DSSPublicationsProxyServer\Client\bin\Debug\CommunicationsLibrary.pdb
+C:\SIFCSW\SIFCCHQ\CommunicationsFramework\Applications\Production\DSSPublicationsProxyServer\Client\bin\Debug\CommunicationsLibrary.xml
+C:\SIFCSW\SIFCCHQ\CommunicationsFramework\Applications\Production\DSSPublicationsProxyServer\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\SIFCSW\SIFCCHQ\CommunicationsFramework\Applications\Production\DSSPublicationsProxyServer\Client\obj\Debug\WindowsApplication1.Form1.resources
+C:\SIFCSW\SIFCCHQ\CommunicationsFramework\Applications\Production\DSSPublicationsProxyServer\Client\obj\Debug\WindowsApplication1.Resources.resources
+C:\SIFCSW\SIFCCHQ\CommunicationsFramework\Applications\Production\DSSPublicationsProxyServer\Client\obj\Debug\DSSPublicationsProxyServerTestClient.vbproj.GenerateResource.Cache
+C:\SIFCSW\SIFCCHQ\CommunicationsFramework\Applications\Production\DSSPublicationsProxyServer\Client\obj\Debug\DSSPublicationsProxyServerTestClient.exe
+C:\SIFCSW\SIFCCHQ\CommunicationsFramework\Applications\Production\DSSPublicationsProxyServer\Client\obj\Debug\DSSPublicationsProxyServerTestClient.xml
+C:\SIFCSW\SIFCCHQ\CommunicationsFramework\Applications\Production\DSSPublicationsProxyServer\Client\obj\Debug\DSSPublicationsProxyServerTestClient.pdb

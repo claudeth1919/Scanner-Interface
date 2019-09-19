@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DSSServerService", "DSSServerService.vbproj", "{B8D5A035-EA7F-43EB-A669-DF5F2AD8115D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UtilitiesLibrary", "..\..\..\..\..\..\UtilitiesFramework\Library\UtilitiesLibrary\UtilitiesLibrary.vbproj", "{13CEA79F-1707-4D5D-B2A3-488B35430FCC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CommunicationsLibrary", "..\..\..\..\..\CommunicationsLibrary\CommunicationsLibrary.vbproj", "{8EBAE7C1-2F6C-47AB-8834-F7A568912E78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D5A035-EA7F-43EB-A669-DF5F2AD8115D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D5A035-EA7F-43EB-A669-DF5F2AD8115D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D5A035-EA7F-43EB-A669-DF5F2AD8115D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D5A035-EA7F-43EB-A669-DF5F2AD8115D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13CEA79F-1707-4D5D-B2A3-488B35430FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CEA79F-1707-4D5D-B2A3-488B35430FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CEA79F-1707-4D5D-B2A3-488B35430FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CEA79F-1707-4D5D-B2A3-488B35430FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBAE7C1-2F6C-47AB-8834-F7A568912E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBAE7C1-2F6C-47AB-8834-F7A568912E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBAE7C1-2F6C-47AB-8834-F7A568912E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBAE7C1-2F6C-47AB-8834-F7A568912E78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

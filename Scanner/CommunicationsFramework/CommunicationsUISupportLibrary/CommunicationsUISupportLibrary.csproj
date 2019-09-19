@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9CBCB7C8-0E40-413E-9615-7EE9870F2B1B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>CommunicationsUISupportLibrary</RootNamespace>
+    <AssemblyName>CommunicationsUISupportLibrary</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>On</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>CommunicationsUISupportLibrary.xml</DocumentationFile>
+    <NOWARN>1591,660,661</NOWARN>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>CommunicationsUISupportLibrary.xml</DocumentationFile>
+    <NOWARN>1591,660,661</NOWARN>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="mscorlib" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="C1.Common">
+      <HintPath>ThirdPartyComponents\C1.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1Command">
+      <HintPath>ThirdPartyComponents\C1.Win.C1Command.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid">
+      <HintPath>ThirdPartyComponents\C1.Win.C1FlexGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid.Classic">
+      <HintPath>ThirdPartyComponents\C1.Win.C1FlexGrid.Classic.dll</HintPath>
+    </Reference>
+    <Reference Include="c1.win.c1sizer">
+      <HintPath>ThirdPartyComponents\c1.win.c1sizer.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Design">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\Data\CFDataDisplayCtrl.Designer.cs">
+      <DependentUpon>CFDataDisplayCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Data\CFDataDisplayCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Data\CFDataManagerContainer.Designer.cs">
+      <DependentUpon>CFDataManagerContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Data\CFDataManagerContainer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\soketsServer\CF_SocketsServer_DataDisplayCtrl.Designer.cs">
+      <DependentUpon>CF_SocketsServer_DataDisplayCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\soketsServer\CF_SocketsServer_DataDisplayCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\soketsServer\CF_SocketsSErver_DataManagerContainer.Designer.cs">
+      <DependentUpon>CF_SocketsSErver_DataManagerContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\soketsServer\CF_SocketsSErver_DataManagerContainer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_ConnectionMode.Designer.cs">
+      <DependentUpon>CF_DPE_ConnectionMode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_ConnectionMode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationSubscriptionHandler.Designer.cs">
+      <DependentUpon>CF_DPE_PublicationSubscriptionHandler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationSubscriptionHandler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationPostHandler.Designer.cs">
+      <DependentUpon>CF_DPE_PublicationPostHandler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationPostHandler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationsPostHandlersContainer.Designer.cs">
+      <DependentUpon>CF_DPE_PublicationsPostHandlersContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationsPostHandlersContainer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationsSubscriptionsHandlersContainer.Designer.cs">
+      <DependentUpon>CF_DPE_PublicationsSubscriptionsHandlersContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationsSubscriptionsHandlersContainer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\Serialziation\ClientHandlerData.cs" />
+    <Compile Include="Controls\DataPublicationsEnvironment\Serialziation\ClientHandlersDataContainer.cs" />
+    <Compile Include="Controls\DataPublicationsEnvironment\Serialziation\ClientHandlersDataContainerEnumerator.cs" />
+    <Compile Include="Controls\DataPublicationsEnvironment\Serialziation\PublicationsConnection\Containers\PublicationsConnectionDataContainer.cs" />
+    <Compile Include="Controls\DataPublicationsEnvironment\Serialziation\PublicationsConnection\Containers\PublicationsConnectionDataContainerEnumerator.cs" />
+    <Compile Include="Controls\DataPublicationsEnvironment\Serialziation\PublicationsConnection\PublicationConnectionData.cs" />
+    <Compile Include="Controls\DataPublicationsEnvironment\Serialziation\publicationsPosting\Containers\PostedPublicationsDefinitionsDataContainer.cs" />
+    <Compile Include="Controls\DataPublicationsEnvironment\Serialziation\publicationsPosting\Containers\PostedPublicationsDefinitionsDataContainerEnumerator.cs" />
+    <Compile Include="Controls\DataPublicationsEnvironment\Serialziation\publicationsPosting\Containers\publicationVariablesDataContainerEnumerator.cs" />
+    <Compile Include="Controls\DataPublicationsEnvironment\Serialziation\publicationsPosting\Containers\publicationVariablesDefinitionsContainer.cs" />
+    <Compile Include="Controls\DataPublicationsEnvironment\Serialziation\publicationsPosting\PostedPublicationDefinitionData.cs" />
+    <Compile Include="Controls\DataPublicationsEnvironment\Serialziation\publicationsPosting\PublicationVariableDefinitionData.cs" />
+    <Compile Include="Controls\DataPublicationsEnvironment\Serialziation\STXDSSClientsHandlerDataContainer.cs" />
+    <Compile Include="Controls\CNDCommunicationsEnvironment\CF_CNDCommsEnvironment_ComponentsContainer.Designer.cs">
+      <DependentUpon>CF_CNDCommsEnvironment_ComponentsContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CNDCommunicationsEnvironment\CF_CNDCommsEnvironment_ComponentsContainer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CNDCommunicationsEnvironment\CF_CNDCommsEnvironment_ComponentHandler.Designer.cs">
+      <DependentUpon>CF_CNDCommsEnvironment_ComponentHandler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CNDCommunicationsEnvironment\CF_CNDCommsEnvironment_ComponentHandler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_ClientHandler.Designer.cs">
+      <DependentUpon>CF_DPE_ClientHandler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_ClientHandler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_ClientsContainer.Designer.cs">
+      <DependentUpon>CF_DPE_ClientsContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_ClientsContainer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationVariableSimulationHandler.Designer.cs">
+      <DependentUpon>CF_DPE_PublicationVariableSimulationHandler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationVariableSimulationHandler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationVariableSimulationHandlerContainer.Designer.cs">
+      <DependentUpon>CF_DPE_PublicationVariableSimulationHandlerContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationVariableSimulationHandlerContainer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Data.cs" />
+    <Compile Include="Forms\Data\frmDataSetDataCreationForm.Designer.cs">
+      <DependentUpon>frmDataSetDataCreationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Data\frmDataSetDataCreationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Data\frmBooleanDataCreationForm.Designer.cs">
+      <DependentUpon>frmBooleanDataCreationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Data\frmBooleanDataCreationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Data\frmCFListDataCreationForm.Designer.cs">
+      <DependentUpon>frmCFListDataCreationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Data\frmCFListDataCreationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Data\frmCFSortedListDataCreationForm.Designer.cs">
+      <DependentUpon>frmCFSortedListDataCreationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Data\frmCFSortedListDataCreationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Data\frmDataTableDataCreationForm.Designer.cs">
+      <DependentUpon>frmDataTableDataCreationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Data\frmDataTableDataCreationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Data\frmDataCreationSelectionForm.Designer.cs">
+      <DependentUpon>frmDataCreationSelectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Data\frmDataCreationSelectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Data\frmDecimalDataCreationForm.Designer.cs">
+      <DependentUpon>frmDecimalDataCreationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Data\frmDecimalDataCreationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Data\frmCFHashTableDataCreationForm.Designer.cs">
+      <DependentUpon>frmCFHashTableDataCreationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Data\frmCFHashTableDataCreationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Data\frmIntegerDataCreationForm.Designer.cs">
+      <DependentUpon>frmIntegerDataCreationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Data\frmIntegerDataCreationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Data\frmStringDataCreationForm.Designer.cs">
+      <DependentUpon>frmStringDataCreationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Data\frmStringDataCreationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CNDCommunicationsEnvironment\frmCF_CND_CommsEnvironment_AvailableComponents.Designer.cs">
+      <DependentUpon>frmCF_CND_CommsEnvironment_AvailableComponents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CNDCommunicationsEnvironment\frmCF_CND_CommsEnvironment_AvailableComponents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DataPublicationsEnvironment\frm_DPE_IntervallValue.Designer.cs">
+      <DependentUpon>frm_DPE_IntervallValue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DataPublicationsEnvironment\frm_DPE_IntervallValue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DataPublicationsEnvironment\frm_DPE_RandomPublicationCreation.Designer.cs">
+      <DependentUpon>frm_DPE_RandomPublicationCreation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DataPublicationsEnvironment\frm_DPE_RandomPublicationCreation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DataPublicationsEnvironment\frm_DPE_ClientHandlerCreation.Designer.cs">
+      <DependentUpon>frm_DPE_ClientHandlerCreation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DataPublicationsEnvironment\frm_DPE_ClientHandlerCreation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DataPublicationsEnvironment\frm_DPE_PublicationCreation.Designer.cs">
+      <DependentUpon>frm_DPE_PublicationCreation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DataPublicationsEnvironment\frm_DPE_PublicationCreation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DataPublicationsEnvironment\frm_DPE_PublicationVariableCreation.Designer.cs">
+      <DependentUpon>frm_DPE_PublicationVariableCreation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DataPublicationsEnvironment\frm_DPE_PublicationVariableCreation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DataPublicationsEnvironment\frm_DPE_SimulationStatistics.Designer.cs">
+      <DependentUpon>frm_DPE_SimulationStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DataPublicationsEnvironment\frm_DPE_SimulationStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Application.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\Data\CFDataDisplayCtrl.resx">
+      <DependentUpon>CFDataDisplayCtrl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Data\CFDataManagerContainer.resx">
+      <DependentUpon>CFDataManagerContainer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\soketsServer\CF_SocketsServer_DataDisplayCtrl.resx">
+      <DependentUpon>CF_SocketsServer_DataDisplayCtrl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\soketsServer\CF_SocketsSErver_DataManagerContainer.resx">
+      <DependentUpon>CF_SocketsSErver_DataManagerContainer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DataPublicationsEnvironment\CF_DPE_ConnectionMode.resx">
+      <DependentUpon>CF_DPE_ConnectionMode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationSubscriptionHandler.resx">
+      <DependentUpon>CF_DPE_PublicationSubscriptionHandler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationPostHandler.resx">
+      <DependentUpon>CF_DPE_PublicationPostHandler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationsPostHandlersContainer.resx">
+      <DependentUpon>CF_DPE_PublicationsPostHandlersContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationsSubscriptionsHandlersContainer.resx">
+      <DependentUpon>CF_DPE_PublicationsSubscriptionsHandlersContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CNDCommunicationsEnvironment\CF_CNDCommsEnvironment_ComponentsContainer.resx">
+      <DependentUpon>CF_CNDCommsEnvironment_ComponentsContainer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CNDCommunicationsEnvironment\CF_CNDCommsEnvironment_ComponentHandler.resx">
+      <DependentUpon>CF_CNDCommsEnvironment_ComponentHandler.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DataPublicationsEnvironment\CF_DPE_ClientHandler.resx">
+      <DependentUpon>CF_DPE_ClientHandler.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DataPublicationsEnvironment\CF_DPE_ClientsContainer.resx">
+      <DependentUpon>CF_DPE_ClientsContainer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationVariableSimulationHandler.resx">
+      <DependentUpon>CF_DPE_PublicationVariableSimulationHandler.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DataPublicationsEnvironment\CF_DPE_PublicationVariableSimulationHandlerContainer.resx">
+      <DependentUpon>CF_DPE_PublicationVariableSimulationHandlerContainer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Data\frmDataSetDataCreationForm.resx">
+      <DependentUpon>frmDataSetDataCreationForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Data\frmBooleanDataCreationForm.resx">
+      <DependentUpon>frmBooleanDataCreationForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Data\frmCFListDataCreationForm.resx">
+      <DependentUpon>frmCFListDataCreationForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Data\frmCFSortedListDataCreationForm.resx">
+      <DependentUpon>frmCFSortedListDataCreationForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Data\frmDataTableDataCreationForm.resx">
+      <DependentUpon>frmDataTableDataCreationForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Data\frmDataCreationSelectionForm.resx">
+      <DependentUpon>frmDataCreationSelectionForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Data\frmDecimalDataCreationForm.resx">
+      <DependentUpon>frmDecimalDataCreationForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Data\frmCFHashTableDataCreationForm.resx">
+      <DependentUpon>frmCFHashTableDataCreationForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Data\frmIntegerDataCreationForm.resx">
+      <DependentUpon>frmIntegerDataCreationForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Data\frmStringDataCreationForm.resx">
+      <DependentUpon>frmStringDataCreationForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CNDCommunicationsEnvironment\frmCF_CND_CommsEnvironment_AvailableComponents.resx">
+      <DependentUpon>frmCF_CND_CommsEnvironment_AvailableComponents.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DataPublicationsEnvironment\frm_DPE_IntervallValue.resx">
+      <DependentUpon>frm_DPE_IntervallValue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DataPublicationsEnvironment\frm_DPE_RandomPublicationCreation.resx">
+      <DependentUpon>frm_DPE_RandomPublicationCreation.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DataPublicationsEnvironment\frm_DPE_ClientHandlerCreation.resx">
+      <DependentUpon>frm_DPE_ClientHandlerCreation.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DataPublicationsEnvironment\frm_DPE_PublicationCreation.resx">
+      <DependentUpon>frm_DPE_PublicationCreation.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DataPublicationsEnvironment\frm_DPE_PublicationVariableCreation.resx">
+      <DependentUpon>frm_DPE_PublicationVariableCreation.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DataPublicationsEnvironment\frm_DPE_SimulationStatistics.resx">
+      <DependentUpon>frm_DPE_SimulationStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{94E38DFF-614B-4CBD-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Icons\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="mscorlib" />
+    <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\UtilitiesFramework\Library\UtilitiesLibrary\UtilitiesLibrary.csproj">
+      <Project>{F9CE571C-4762-4241-A0EB-AD2E3DCED43A}</Project>
+      <Name>UtilitiesLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CommunicationsLibrary\CommunicationsLibrary.csproj">
+      <Project>{8EBAE7C1-2F6C-47AB-8834-F7A568912E78}</Project>
+      <Name>CommunicationsLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <Import Project="$(MSBuildBinPath)/Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,39 @@
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\bin\Debug\CommunicationsLibrary.dll
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\bin\Debug\UtilitiesLibrary.dll
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\bin\Debug\Sax.Communications.Community.dll
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\bin\Debug\UtilitiesLibrary.pdb
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\bin\Debug\UtilitiesLibrary.xml
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\bin\Debug\CommunicationsLibrary.pdb
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\bin\Debug\CommunicationsLibrary.xml
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\obj\Debug\SocketsServerMultiplexingTestApp.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Documents and Settings\ikerugo\My Documents\Visual Studio 2008\Projects\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\ikerugo77\Documents\Visual Studio 2008\Projects\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\ikerugo77\Documents\Visual Studio 2008\Projects\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\ikerugo77\Documents\Visual Studio 2008\Projects\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\obj\Debug\WindowsApplication2.exe
+C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\obj\Debug\WindowsApplication2.xml
+C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\obj\Debug\WindowsApplication2.pdb
+C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\bin\Debug\WindowsApplication2.exe
+C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\bin\Debug\WindowsApplication2.pdb
+C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\bin\Debug\WindowsApplication2.xml
+C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\bin\Debug\CommunicationsLibrary.dll
+C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\bin\Debug\UtilitiesLibrary.dll
+C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\bin\Debug\UtilitiesLibrary.pdb
+C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\bin\Debug\UtilitiesLibrary.xml
+C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\bin\Debug\CommunicationsLibrary.pdb
+C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\bin\Debug\CommunicationsLibrary.xml
+C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\obj\Debug\SocketsServerMultiplexingTestApp.vbprojResolveAssemblyReference.cache
+C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\obj\Debug\WindowsApplication2.Form1.resources
+C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\obj\Debug\WindowsApplication2.Resources.resources
+C:\SIFCSW\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\obj\Debug\SocketsServerMultiplexingTestApp.vbproj.GenerateResource.Cache
+I:\VBConvertions\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\obj\Debug\WindowsApplication2.exe
+I:\VBConvertions\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\obj\Debug\WindowsApplication2.xml
+I:\VBConvertions\CommunicationsFramework\Applications\FrameworkTesting\SocketsServer\SocketsServerMultiplexingTestApp\obj\Debug\WindowsApplication2.pdb

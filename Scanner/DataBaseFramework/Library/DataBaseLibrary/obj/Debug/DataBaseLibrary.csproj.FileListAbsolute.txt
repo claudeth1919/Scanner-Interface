@@ -1,0 +1,172 @@
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\obj\Debug\DataBaseLibrary.csprojResolveAssemblyReference.cache
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\obj\Debug\DataBaseLibrary.csproj.ResolveComReference.cache
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\obj\Debug\DataBaseLibrary.Properties.Resources.resources
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\obj\Debug\DataBaseLibrary.csproj.GenerateResource.Cache
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.dll
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.pdb
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.xml
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\bin\System.Data.DataSetExtensions.dll
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\bin\System.Data.dll
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\bin\System.dll
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\bin\System.Xml.dll
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\bin\System.Xml.Linq.dll
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\bin\UtilitiesLibrary.dll
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\bin\Sax.Communications.Community.dll
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\bin\UtilitiesLibrary.pdb
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\bin\stdole.dll
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csprojResolveAssemblyReference.cache
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csproj.ResolveComReference.cache
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.Properties.Resources.resources
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csproj.GenerateResource.Cache
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.dll
+I:\CONVERTIONS\VBConvertions\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.pdb
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.dll
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.pdb
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.xml
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\System.Data.DataSetExtensions.dll
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\System.Data.dll
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\System.dll
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\System.Xml.dll
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\System.Xml.Linq.dll
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\UtilitiesLibrary.dll
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\Sax.Communications.Community.dll
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\UtilitiesLibrary.pdb
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\stdole.dll
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csprojResolveAssemblyReference.cache
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csproj.ResolveComReference.cache
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.Properties.Resources.resources
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csproj.GenerateResource.Cache
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.dll
+F:\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.pdb
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.dll
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.pdb
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.xml
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\System.Data.DataSetExtensions.dll
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\System.Data.dll
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\System.dll
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\System.Xml.dll
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\System.Xml.Linq.dll
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\UtilitiesLibrary.dll
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\Sax.Communications.Community.dll
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\UtilitiesLibrary.pdb
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\bin\stdole.dll
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csprojResolveAssemblyReference.cache
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csproj.ResolveComReference.cache
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.Properties.Resources.resources
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csproj.GenerateResource.Cache
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.dll
+G:\ALDS PROJECTS\proyecto HU's\DotNETDevelopment\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.pdb
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.dll
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.pdb
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.xml
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\bin\System.Data.DataSetExtensions.dll
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\bin\System.Data.dll
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\bin\System.dll
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\bin\System.Xml.dll
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\bin\System.Xml.Linq.dll
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\bin\UtilitiesLibrary.dll
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\bin\Sax.Communications.Community.dll
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\bin\UtilitiesLibrary.pdb
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\bin\stdole.dll
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csprojResolveAssemblyReference.cache
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csproj.ResolveComReference.cache
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.Properties.Resources.resources
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csproj.GenerateResource.Cache
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.dll
+C:\TFS\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.pdb
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.pdb
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.xml
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.Data.DataSetExtensions.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.Data.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.Xml.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.Xml.Linq.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\UtilitiesLibrary.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.UI.WindowsForms.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\Sax.Communications.Community.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.UI.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.Common.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\UtilitiesLibrary.pdb
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.UI.WindowsForms.xml
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.UI.xml
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.Common.xml
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\stdole.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csprojResolveAssemblyReference.cache
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csproj.ResolveComReference.cache
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.Properties.Resources.resources
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csproj.GenerateResource.Cache
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.dll
+C:\Proyectos\FurnacesControlMonitor\Main\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.pdb
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.dll
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.pdb
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.xml
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.Data.DataSetExtensions.dll
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.Data.dll
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.dll
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.Xml.dll
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.Xml.Linq.dll
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\UtilitiesLibrary.dll
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.UI.WindowsForms.dll
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\Sax.Communications.Community.dll
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.UI.dll
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.Common.dll
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\UtilitiesLibrary.pdb
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.UI.WindowsForms.xml
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.UI.xml
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.Common.xml
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\bin\stdole.dll
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csprojResolveAssemblyReference.cache
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csproj.ResolveComReference.cache
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.Properties.Resources.resources
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csproj.GenerateResource.Cache
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.dll
+C:\LuK\ALDS\Main\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.pdb
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.dll
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.pdb
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.xml
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.Data.DataSetExtensions.dll
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.Data.dll
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.dll
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.Xml.dll
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.Xml.Linq.dll
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\UtilitiesLibrary.dll
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.UI.WindowsForms.dll
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\Sax.Communications.Community.dll
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.UI.dll
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.Common.dll
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\UtilitiesLibrary.pdb
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.UI.WindowsForms.xml
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.UI.xml
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.Common.xml
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\stdole.dll
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csprojResolveAssemblyReference.cache
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csproj.ResolveComReference.cache
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.Properties.Resources.resources
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csproj.GenerateResource.Cache
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.dll
+C:\LuK\FurnacesControlMonitor\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.pdb
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.dll
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.pdb
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\DataBaseLibrary.xml
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.Data.DataSetExtensions.dll
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.Data.dll
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.dll
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.Xml.dll
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\System.Xml.Linq.dll
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\UtilitiesLibrary.dll
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.UI.WindowsForms.dll
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\Sax.Communications.Community.dll
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.UI.dll
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.Common.dll
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\UtilitiesLibrary.pdb
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.UI.WindowsForms.xml
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.UI.xml
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\NationalInstruments.Common.xml
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\bin\stdole.dll
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csprojResolveAssemblyReference.cache
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csproj.ResolveComReference.cache
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.Properties.Resources.resources
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.csproj.GenerateResource.Cache
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.dll
+C:\LuK\ALDS\Main\Source\Common\Source\DataBaseFramework\Library\DataBaseLibrary\obj\Debug\DataBaseLibrary.pdb

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SQLServerScriptRunner">
+</Property><Property Name="Solution File" Value="C:\SIFCSW\DataBaseFramework\Applications\SQLServerScriptRunner\SQLServerScriptRunner.sln">
+</Property><Property Name="Date" Value="viernes, 10 de octubre de 2014">
+</Property><Property Name="Time" Value="17:17 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="UtilitiesLibrary" Source="..\..\..\UtilitiesFramework\Library\UtilitiesLibrary\UtilitiesLibrary.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="UtilitiesLibrary" Source="..\..\..\UtilitiesFramework\Library\UtilitiesLibrary\UtilitiesLibrary.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SQLServerScriptRunner" Source="SQLServerScriptRunner.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SQLServerScriptRunner" Source="SQLServerScriptRunner.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SQLServerScriptRunner.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SQLServerScriptRunner.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SQLServerScriptRunner" Source="SQLServerScriptRunner.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
